@@ -1,5 +1,3 @@
-from lesson_07 import list_
-
 my_dict = {"Anna": 1998, "Tina": 2000, "Pit": 1999}
 print("Dict:", my_dict)
 print("Existing value:", my_dict["Tina"])
